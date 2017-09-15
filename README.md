@@ -15,11 +15,22 @@ In this application you will learn how to use [PHPUnit](https://phpunit.de/). Te
 
     git clone https://github.com/halimus/CTBC.git
     
+![alt tag](https://github.com/halimus/etf/blob/master/public/images/CTBC/1.JPG)
+    
 **b- Use Composer to install dependencies(PHPUnit):**
 
     composer install
+ 
+![alt tag](https://github.com/halimus/etf/blob/master/public/images/CTBC/2.JPG)
+    
     
 ### 4-Start the Tests:
+
+![alt tag](https://github.com/halimus/etf/blob/master/public/images/CTBC/3.JPG)
+ 
+![alt tag](https://github.com/halimus/etf/blob/master/public/images/CTBC/4.JPG)
+  
+![alt tag](https://github.com/halimus/etf/blob/master/public/images/CTBC/5.JPG)
 
 
 
