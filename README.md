@@ -3,7 +3,7 @@
 This application is created for a Test Assignment purpose.
 
 ### 1-About CTBC:
-In this application you will learn how to use [PHPUnit](https://phpunit.de/). Test
+In this application you will learn how to use [PHPUnit](https://phpunit.de/) Test
 
 ### 2-Requirement:
 - You need to have PHP 5.6 or greater installed on your machine.
