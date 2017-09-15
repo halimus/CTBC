@@ -19,7 +19,7 @@ In this application you will learn how to use [PHPUnit](https://phpunit.de/). Te
 
     composer install
     
-### 4-Start the Test:
+### 4-Start the Tests:
 
 
 
