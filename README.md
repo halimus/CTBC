@@ -1,5 +1,4 @@
-# CTBC
-## Clock Tower Bell Counter
+# Clock Tower Bell Counter - CTBC
 
 ### User Story
 As a clock enthusiast, I want to know how many times a clock tower will ring its bell between two
