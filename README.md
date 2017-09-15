@@ -5,11 +5,14 @@ This application is created for a Test Assignment purpose.
 ### 1-About CTBC:
 In this application you will learn how to use [PHPUnit](https://phpunit.de/) Test
 
-### 2-Requirement:
+### 1-Demo: 
+https://demo.halimlardjane.com/ctbc
+
+### 3-Requirement:
 - You need to have PHP 5.6 or greater installed on your machine.
 - You need to have [composer](https://getcomposer.org/) installed on your machine as well.
 
-### 3-Installation:
+### 4-Installation:
 
 **a- Pull up the application to your machine:**
 
@@ -24,7 +27,7 @@ In this application you will learn how to use [PHPUnit](https://phpunit.de/) Tes
 ![alt tag](https://github.com/halimus/etf/blob/master/public/images/CTBC/2.JPG)
     
     
-### 4-Start the Tests:
+### 5-Start the Tests:
 
 ![alt tag](https://github.com/halimus/etf/blob/master/public/images/CTBC/3.JPG)
  
