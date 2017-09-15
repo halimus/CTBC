@@ -11,6 +11,15 @@ In this application you will learn how to use [PHPUnit](https://phpunit.de/). Te
 
 ### Installation:
 
+**1- Pull up the application to your machine:**
+
+    git clone https://github.com/halimus/CTBC.git
+    
+**2- Use Composer to install dependencies(PHPUnit):**
+
+    composer install
+    
+
 
 
 
