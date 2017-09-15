@@ -20,7 +20,7 @@ https://demo.halimlardjane.com/ctbc
     
 ![alt tag](https://github.com/halimus/etf/blob/master/public/images/CTBC/1.JPG)
     
-**b- Use Composer to install dependencies(PHPUnit):**
+**b- Use Composer to install dependencies (PHPUnit):**
 
     composer install
  
