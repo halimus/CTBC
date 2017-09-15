@@ -7,7 +7,7 @@ In this application you will learn how to use [PHPUnit](https://phpunit.de/). Te
 
 ### Requirement:
 - You need to have PHP 5.6 or greater installed on your machine.
-- You need to have composer installed on your machine as well.
+- You need to have [composer](https://getcomposer.org/) installed on your machine as well.
 
 ### Installation:
 
