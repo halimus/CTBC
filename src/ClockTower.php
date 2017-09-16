@@ -61,7 +61,7 @@ class ClockTower {
                 }
             }
         }
-        else{ // $timeDiff negative
+        else{ // $timeDiff negative or equal 0
             $startHour = date('H', $startTime);
             $endHour = date('H', $endTime);
 
