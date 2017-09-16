@@ -6,6 +6,8 @@
  * Time: 1:34 AM
  */
 
+namespace TDD;
+
 include 'src/ClockTower.php';
 
 echo '<br>startTime='.$startTime = '2:00'; echo '<br>endTime='.$endTime = '3:00';
