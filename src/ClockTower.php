@@ -5,6 +5,9 @@
  * Date: 9/16/2017
  * Time: 1:35 AM
  */
+
+namespace TDD;
+
 class ClockTower {
 
     /**
