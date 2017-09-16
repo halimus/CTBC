@@ -11,7 +11,6 @@ class ClockTower {
      * ClockTower constructor.
      */
     public function __construct() {
-
     }
 
     /**
@@ -117,6 +116,5 @@ class ClockTower {
         $array = array_slice($hours, $offset, $length);
         return $array;
     }
-
 
 }
