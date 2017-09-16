@@ -19,3 +19,6 @@ $clockTower  = new ClockTower();
 $countBells = $clockTower->countBells($startTime, $endTime);
 
 echo '<br>countBells='.$countBells;
+
+
+
